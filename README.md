@@ -31,3 +31,7 @@ Image saved on Saturday August 10, 2019 at 7:30:42 PM
 End of input stream reached.
 Fortitudine vincimus.
 ```
+
+## 参考资源
+
+- http://www.xuanji.li/isicp/
