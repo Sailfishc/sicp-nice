@@ -35,3 +35,4 @@ Fortitudine vincimus.
 ## 参考资源
 
 - http://www.xuanji.li/isicp/
+- https://www.gnu.org/software/mit-scheme/
