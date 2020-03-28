@@ -14,6 +14,16 @@
 
 - scheme < xxx.scm
 
+> 或者在Vscode安装插件：code-runner，然后配置code-runner
+
+```
+"code-runner.executorMap": {
+      "scheme": "scheme <"
+  },
+```
+就可以方便的运行Scheme了。
+
+
 ```
 MIT/GNU Scheme running under OS X
 Type `^C' (control-C) followed by `H' to obtain information about interrupts.
@@ -36,3 +46,8 @@ Fortitudine vincimus.
 
 - http://www.xuanji.li/isicp/
 - https://www.gnu.org/software/mit-scheme/
+
+
+## 有用的工具
+
+- 画语法树的工具：http://mshang.ca/syntree/
